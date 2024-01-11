@@ -63,13 +63,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordybronowicki37&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="jordybronowicki37" />
 </picture>
 
-<br/><br/>
+<p> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jordybronowicki37&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0D1117">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordybronowicki37&show_icons=true&locale=en&layout=compact" alt="jordybronowicki37" />
 </picture>
 
-<br/><br/>
+<p> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordybronowicki37&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jordybronowicki37" /> </p>
