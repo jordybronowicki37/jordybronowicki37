@@ -1,6 +1,14 @@
-<h1 align="center">Hi there 👋</h1>
+<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave emoji" height="24"/> My name is Jordy Bronowicki</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordybronowicki37&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jordybronowicki37" /> </p>
+<h2>Junior Software Engineer</h2>
+
+<ul>
+  <li>🌍  I'm based in Netherlands</li>
+  <li>🖥️  See my portfolio at <a href="https://jordy-bronowicki-portfolio.onrender.com/" target="_blank" rel="noreferrer">Link</a></li>
+  <li>🚀  I'm currently working on <a href="https://jordy-bronowicki-portfolio.onrender.com/" target="_blank" rel="noreferrer">expanding my portfolio website</a></li>
+  <li>🧠  I'm learning AWS serverless applications and Unity game development</li>
+  <li>🤝  I'm open for collaborating on indie game development</li>
+</ul>
 
 <h2>Languages, Frameworks & Tools</h2>
 <h3 align="left">Front-end:</h3>
@@ -49,7 +57,19 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 </p>
 
+<h2>GitHub Stats</h2>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jordybronowicki37&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0D1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jordybronowicki37&show_icons=true&theme=radical&bg_color=0D1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordybronowicki37&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="jordybronowicki37" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jordybronowicki37&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0D1117">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordybronowicki37&show_icons=true&locale=en&layout=compact" alt="jordybronowicki37" />
 </picture>
+
+<br/><br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordybronowicki37&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jordybronowicki37" /> </p>
