@@ -5,9 +5,9 @@
 <ul>
   <li>🌍  I'm based in Netherlands</li>
   <li>🖥️  See my portfolio at <a href="https://jordy-bronowicki-portfolio.onrender.com/" target="_blank" rel="noreferrer">Link</a></li>
-  <li>🚀  I'm currently working on <a href="https://jordy-bronowicki-portfolio.onrender.com/" target="_blank" rel="noreferrer">expanding my portfolio website</a></li>
-  <li>🧠  I'm learning AWS serverless applications and Unity game development</li>
-  <li>🤝  I'm open for collaborating on indie game development</li>
+  <li>🚀  I'm currently working on my  <a href="https://github.com/jordybronowicki37/production-calculator" target="_blank" rel="noreferrer">Production Calculator</a> project</li>
+  <li>🧠  I'm learning AWS serverless applications</li>
+  <li>🤝  I'm open for collaborating on cool stuff</li>
 </ul>
 
 <h2>Languages, Frameworks & Tools</h2>
