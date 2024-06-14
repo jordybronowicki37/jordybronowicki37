@@ -4,7 +4,7 @@
 
 <ul>
   <li>🌍  I'm based in Netherlands</li>
-  <li>🖥️  See my portfolio on <a href="https://jordy-bronowicki-portfolio.onrender.com/" target="_blank" rel="noreferrer">Render</a></li>
+  <li>🖥️  See my portfolio <a href="https://jordy-bronowicki-portfolio.onrender.com/" target="_blank" rel="noreferrer">here</a> or visit the <a href="https://github.com/jordybronowicki37/portfolio" target="_blank" rel="noreferrer">repo</a></li>
   <li>🚀  I'm currently working on my  <a href="https://github.com/jordybronowicki37/production-calculator" target="_blank" rel="noreferrer">Production Calculator</a> project</li>
   <li>🧠  I'm learning AWS serverless applications</li>
   <li>🤝  I'm open for collaborating on cool stuff</li>
@@ -55,6 +55,8 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> 
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 </p>
 
 <h2>GitHub Stats</h2>
@@ -72,4 +74,6 @@
 
 <p> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordybronowicki37&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jordybronowicki37" /> </p>
+<!--
+<p align="left" hidden> <img src="https://komarev.com/ghpvc/?username=jordybronowicki37&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jordybronowicki37" /> </p>
+-->
