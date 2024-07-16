@@ -13,27 +13,42 @@
 <h2>Languages, Frameworks & Tools</h2>
 <h3 align="left">Front-end:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,react,angular,redux" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,react,angular,redux">
+    <img align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,react,angular,redux&theme=light" alt="jordybronowicki37" />
+  </picture>
 </p>
 
 <h3 align="left">Back-end:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq,python" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq,python">
+    <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq,python&theme=light" alt="jordybronowicki37" />
+  </picture>
 </p>
 
 <h3 align="left">Databases:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql,mysql,mongodb">
+    <img align="center" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=light" alt="jordybronowicki37" />
+  </picture>
 </p>
 
 <h3 align="left">Hosting:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,docker">
+    <img align="center" src="https://skillicons.dev/icons?i=aws,azure,docker&theme=light" alt="jordybronowicki37" />
+  </picture>
 </p>
 
 <h3 align="left">What I still want to learn:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=kotlin,svelte,dart,tailwind,kubernetes,rust,go" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,svelte,dart,tailwind,kubernetes,rust,go">
+    <img align="center" src="https://skillicons.dev/icons?i=kotlin,svelte,dart,tailwind,kubernetes,rust,go&theme=light" alt="jordybronowicki37" />
+  </picture>
 </p>
 
 <h2>GitHub Stats</h2>
