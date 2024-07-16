@@ -14,7 +14,7 @@
 <h3 align="left">Front-end:</h3>
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,react,angular,redux">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Chtml%2Ccss%2Csass%2Cvue%2Creact%2Cangular%2Credux&theme=dark">
     <img align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,react,angular,redux&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
@@ -22,7 +22,7 @@
 <h3 align="left">Back-end:</h3>
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq,python">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cjava%2Cspring%2Crabbitmq%2Cpython&theme=dark">
     <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq,python&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
@@ -30,7 +30,7 @@
 <h3 align="left">Databases:</h3>
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql,mysql,mongodb">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql%2Cmysql%2Cmongodb&theme=dark">
     <img align="center" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
@@ -38,7 +38,7 @@
 <h3 align="left">Hosting:</h3>
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,docker">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cazure%2Cdocker&theme=dark">
     <img align="center" src="https://skillicons.dev/icons?i=aws,azure,docker&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
@@ -46,7 +46,7 @@
 <h3 align="left">What I still want to learn:</h3>
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,svelte,dart,tailwind,kubernetes,rust,go">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Csvelte%2Cdart%2Ctailwind%2Ckubernetes%2Crust%2Cgo&theme=dark">
     <img align="center" src="https://skillicons.dev/icons?i=kotlin,svelte,dart,tailwind,kubernetes,rust,go&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
