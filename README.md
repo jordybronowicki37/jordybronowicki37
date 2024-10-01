@@ -38,16 +38,16 @@
 <h3 align="left">Hosting:</h3>
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cazure%2Cdocker&theme=dark">
-    <img align="center" src="https://skillicons.dev/icons?i=aws,azure,docker&theme=light" alt="jordybronowicki37" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cazure%2Cdocker%2Ckubernetes&theme=dark">
+    <img align="center" src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
 
 <h3 align="left">What I still want to learn:</h3>
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Csvelte%2Cdart%2Ctailwind%2Ckubernetes%2Crust%2Cgo&theme=dark">
-    <img align="center" src="https://skillicons.dev/icons?i=kotlin,svelte,dart,tailwind,kubernetes,rust,go&theme=light" alt="jordybronowicki37" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Csvelte%2Cdart%2Ctailwind%2Crust%2Cgo&theme=dark">
+    <img align="center" src="https://skillicons.dev/icons?i=kotlin,svelte,dart,tailwind,rust,go&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
 
