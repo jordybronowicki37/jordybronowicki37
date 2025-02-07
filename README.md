@@ -5,8 +5,8 @@
 <ul>
   <li>🌍  I'm based in Netherlands</li>
   <li>🖥️  See my portfolio <a href="https://jordy-bronowicki-portfolio.onrender.com/" target="_blank" rel="noreferrer">here</a> or visit the <a href="https://github.com/jordybronowicki37/portfolio" target="_blank" rel="noreferrer">repo</a></li>
-  <li>🚀  I'm currently working on my <a href="https://github.com/jordybronowicki37/befit-bot" target="_blank" rel="noreferrer">Befit-Bot</a> project</li>
-  <li>🧠  I'm currently learning Azure platform engineering</li>
+  <li>🚀  I'm currently working on the <a href="https://github.com/jordybronowicki37/befit-bot" target="_blank" rel="noreferrer">Befit-Bot</a> project</li>
+  <li>🧠  I'm currently learning the VMware stack and Azure platform engineering</li>
   <li>🤝  I'm open for collaborating on cool stuff</li>
 </ul>
 
