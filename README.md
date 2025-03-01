@@ -53,12 +53,6 @@
 
 <h2>GitHub Stats</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jordybronowicki37/jordybronowicki37/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jordybronowicki37/jordybronowicki37/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jordybronowicki37/jordybronowicki37/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jordybronowicki37&show_icons=true&theme=radical&bg_color=0D1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordybronowicki37&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="jordybronowicki37" />
 </picture>
@@ -68,6 +62,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jordybronowicki37&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0D1117">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordybronowicki37&show_icons=true&locale=en&layout=compact" alt="jordybronowicki37" />
+</picture>
+
+<p> </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jordybronowicki37/jordybronowicki37/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jordybronowicki37/jordybronowicki37/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jordybronowicki37/jordybronowicki37/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <p> </p>
