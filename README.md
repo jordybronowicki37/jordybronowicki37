@@ -53,6 +53,12 @@
 
 <h2>GitHub Stats</h2>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jordybronowicki37/jordybronowicki37/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jordybronowicki37/jordybronowicki37/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jordybronowicki37/jordybronowicki37/output/github-snake.svg" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jordybronowicki37&show_icons=true&theme=radical&bg_color=0D1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordybronowicki37&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="jordybronowicki37" />
 </picture>
