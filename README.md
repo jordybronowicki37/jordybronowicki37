@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave emoji" height="24"/> My name is Jordy Bronowicki</h1>
+<h1>Hi <picture><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave emoji" height="24"/></picture> My name is Jordy Bronowicki</h1>
 
 <h2>Junior Software Engineer</h2>
 
