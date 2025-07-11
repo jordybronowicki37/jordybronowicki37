@@ -5,7 +5,7 @@
 <ul>
   <li>🌍  I'm based in Netherlands</li>
   <li>🖥️  See my portfolio <a href="https://jordy-bronowicki-portfolio.onrender.com/" target="_blank" rel="noreferrer">here</a> or visit the <a href="https://github.com/jordybronowicki37/portfolio" target="_blank" rel="noreferrer">repo</a></li>
-  <li>🚀  I'm currently working on the <a href="https://github.com/jordybronowicki37/befit-bot" target="_blank" rel="noreferrer">Befit-Bot</a> project</li>
+  <li>🚀  I'm currently working on the <a href="https://github.com/jordybronowicki37/befit-bot" target="_blank" rel="noreferrer">Befit-Bot</a> and <a href="https://github.com/jordybronowicki37/stream-buddy" target="_blank" rel="noreferrer">Stream-Buddy</a> projects</li>
   <li>🧠  I'm currently learning the VMware stack and Azure platform engineering</li>
   <li>🤝  I'm open for collaborating on cool stuff</li>
 </ul>
@@ -15,7 +15,7 @@
 <p align="left"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Chtml%2Ccss%2Csass%2Cvue%2Creact%2Cangular%2Credux&theme=dark">
-    <img align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,react,angular,redux&theme=light" alt="jordybronowicki37" />
+    <img align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,react,angular,nodejs,redux&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
 
@@ -23,15 +23,23 @@
 <p align="left"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cjava%2Cspring%2Crabbitmq%2Cpython&theme=dark">
-    <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq,python&theme=light" alt="jordybronowicki37" />
+    <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq&theme=light" alt="jordybronowicki37" />
+  </picture>
+</p>
+
+<h3 align="left">Scripting:</h3>
+<p align="left"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash%2Cpowershell%2Cpython&theme=dark">
+    <img align="center" src="https://skillicons.dev/icons?i=bash,powershell,python&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
 
 <h3 align="left">Databases:</h3>
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql%2Cmysql%2Cmongodb&theme=dark">
-    <img align="center" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=light" alt="jordybronowicki37" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql%2Cmysql%2Cmongodb%2Csqlite&theme=dark">
+    <img align="center" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
 
@@ -46,8 +54,8 @@
 <h3 align="left">What I still want to learn:</h3>
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Csvelte%2Cdart%2Ctailwind%2Crust%2Cgo&theme=dark">
-    <img align="center" src="https://skillicons.dev/icons?i=kotlin,svelte,dart,tailwind,rust,go&theme=light" alt="jordybronowicki37" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Clua%2Crust%2Ckotlin%2Csvelte%2Cdart%2Ctailwind&theme=dark">
+    <img align="center" src="https://skillicons.dev/icons?i=go,lua,rust,kotlin,svelte,dart,tailwind&theme=light" alt="jordybronowicki37" />
   </picture>
 </p>
 
