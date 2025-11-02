@@ -61,12 +61,6 @@
       <img align="center" src="https://skillicons.dev/icons?i=angular&theme=light" alt="Angular logo" />
     </picture>
   </a>
-  <a target="_blank" href="https://nodejs.org/" title="NodeJS">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
-      <img align="center" src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="NodeJS logo" />
-    </picture>
-  </a>
   <a target="_blank" href="https://redux.js.org/" title="Redux">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux&theme=dark">
@@ -111,6 +105,12 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
       <img align="center" src="https://skillicons.dev/icons?i=python&theme=light" alt="Python logo" />
+    </picture>
+  </a>
+  <a target="_blank" href="https://nodejs.org/" title="NodeJS">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
+      <img align="center" src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="NodeJS logo" />
     </picture>
   </a>
 </p>
@@ -189,6 +189,12 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes&theme=dark">
       <img align="center" src="https://skillicons.dev/icons?i=kubernetes&theme=light" alt="Kubernetes logo" />
+    </picture>
+  </a>
+  <a target="_blank" href="https://www.heroku.com/" title="Heroku">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=heroku&theme=dark">
+      <img align="center" src="https://skillicons.dev/icons?i=heroku&theme=light" alt="Heroku logo" />
     </picture>
   </a>
 </p>
